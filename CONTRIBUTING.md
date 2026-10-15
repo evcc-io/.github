@@ -7,7 +7,7 @@ Most ways to help don't need any code: answering questions, testing new versions
 ## Ground Rules
 
 The [ground rules](https://github.com/evcc-io/evcc/blob/master/CONTRIBUTING.md#ground-rules) of the main repository apply to all evcc repositories.
-In short: start small, open an issue or discussion before a pull request, keep pull requests focused and in English, and understand every change you submit.
+In short: start small, open an issue or discussion before a pull request, keep pull requests focused and in English, understand every change you submit and mark AI-generated text as such.
 
 ## Development
 
